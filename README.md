@@ -1,6 +1,6 @@
 # My Projects Repository
 
-Welcome to my Projects Repository! This repository is a collection of all my projects, showcasing my work across various domains and technologies. Feel free to explore, learn, and provide feedback!
+Welcome to my Projects Repository! This repository is a collection of all my projects, showcasing my work across various domains and technologies. Feel free to explore, learn and provide feedback!
 
 ## Overview
 
@@ -8,19 +8,13 @@ This repository contains projects that I have worked on, organized by categories
 
 ## Categories
 
-- **Web Development**: Projects related to front-end and back-end web development.
+- **Web Development**: Projects related to web based development.
 - **Data Science**: Machine learning, data analysis, and visualization projects.
-- **Mobile Applications**: Android and iOS app projects.
+- **Mobile Applications**: Android app projects.
 - **Game Development**: Games and interactive experiences.
 - **Automation Scripts**: Tools and utilities for automating tasks.
 - **Open Source Contributions**: Contributions made to other repositories.
 
-## Highlights
-
-Here are some of the key projects included in this repository:
-- [Project Name 1](#): Brief description.
-- [Project Name 2](#): Brief description.
-- [Project Name 3](#): Brief description.
 
 ## How to Navigate
 
