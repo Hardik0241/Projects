@@ -20,7 +20,7 @@ This repository contains projects that I have worked on, organized by categories
 - **JAVA Report**: Java programming basics, OOP concepts, and application development.
 - **Advanced JAVA Report**: Analyzing of database structure and their relations to creating the database and tables.
 - **SQL Project(in PDF)**: Comprehensive use of all SQL commands for data definition, manipulation and retrieval, which includes schema design, queries, permissions and transaction management.
-- **MySQL Report(in PPT)**: Database design, Data analysis using all SQL queries using MySQL.
+- **MySQL Report(in PPT)**: Database design, Data analysis using all SQL queries using MySQL Workbench.
 - **GUI Report**: Graphical User Interface design and implementation using frameworks like Java Swing or Tkinter.
 - **Excel Project (Dashboard creation using Data Analysis Tools)**: Interactive dashboards and comprehensive data analysis using all major Excel tools and functions.
 - **Excel Project (VBA Automation for Report Generation)**: Automated report generation using Excel VBA for data processing and workflow optimization.
