@@ -25,6 +25,7 @@ This repository contains projects that I have worked on, organized by categories
 - **Excel Project (Dashboard creation using Data Analysis Tools)**: Interactive dashboards and comprehensive data analysis using all major Excel tools and functions.
 - **Excel Project (VBA Automation for Report Generation)**: Automated report generation using Excel VBA for data processing and workflow optimization.
 - **PowerBI Project**: Business intelligence and data visualization project featuring four detailed & interactive report pages and one interactive dashboard page.
+- **Tableau Project**: Business intelligence and data visualization project featuring interactive dashboards for clinical insights using patient-level heart failure data.
 - **Open Source Contributions**: Contributions made to other repositories.
 
 
