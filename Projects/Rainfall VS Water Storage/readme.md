@@ -33,7 +33,6 @@ Current Total Storage	9.47K	Storage level on the LASTDATE available in the filte
 POONDI Avg Last 30 Days	1.83K	Average level of POONDI reservoir over the last 30 days.
 MoM/YoY Level Change %	(Not shown in SS)	Measures percentage change in average level vs. a previous period.
 
-Export to Sheets
 📈 Visual Charts (5 Charts)
 Total Storage Last 30 Days/Over Time (Line Chart): Trend of combined storage levels over time.
 
@@ -58,7 +57,6 @@ Wettest Day Rainfall	1.28K	Maximum combined rainfall on any single day in histor
 POONDI Avg Last 30 Days	(Value from R1)	Included here for comparison.
 Rainfall Efficiency Ratio	(Implied)	DIVIDE(Storage, Rainfall) to measure efficiency (Cross-Table KPI).
 
-Export to Sheets
 📈 Visual Charts (5 Charts)
 Monthly Total Rainfall (Clustered Column Chart): Seasonal analysis, identifying the wettest (October, November) and driest (February, March) months.
 
@@ -91,7 +89,6 @@ Visual	Seasonal Storage Trend (Area Chart)	Report 1 (Shows the typical seasonal 
 Visual	Historical Highs (Bar Chart)	Report 1 (Compares maximum recorded levels across reservoirs)
 Visual	(One final visual is implied/not clearly visible in the SS, likely a simpler trend or gauge)	
 
-Export to Sheets
 🔪 Slicers
 Non-Interactive: Dashboard tiles are static snapshots based on the filters applied in the reports (Month, Quarter, Year) before pinning. An explicit Year Slicer is included on the right for interactive filtering of the dashboard view.
 
