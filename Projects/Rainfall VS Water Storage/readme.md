@@ -13,8 +13,6 @@ Determining the correlation and efficiency between rainfall received and the res
 Tools Used
 Power BI Desktop: Data import, modeling, DAX measure creation and report design.
 
-Power BI Service: Hosting, sharing, and creation of the final Executive Snapshot Dashboard.
-
 Data Model Structure
 The project uses two primary tables, confirming that no Unpivot transformation was used, as the reservoir names remain column headers.
 
