@@ -21,7 +21,7 @@ chennai_reservoir_levels	Daily water storage (MCft)	Date, Month, Year, 4 Reservo
 chennai_reservoir_rainfall	Daily rainfall (mm) for reservoir catchment areas	Date, Month, Year, 4 Reservoir Columns (POONDI, etc.)
 
 
-📊 Report 1: Reservoir Levels Analysis (Initial Screenshot)
+📊 Report 1: Reservoir Levels Analysis
 This report focuses on water storage levels using the chennai_reservoir_levels table .
 
 🔑 Key Performance Indicators (4 KPIs)
@@ -45,7 +45,7 @@ Monthly Average Level by Reservoir (Line Chart): (Implied by design, showing ind
 🔪 Slicers
 Month, Quarter, Year (Using built-in date hierarchy slicers).
 
-⛈️ Report 2: Rainfall & Correlation Analysis (Second Screenshot)
+⛈️ Report 2: Rainfall & Correlation Analysis
 This report investigates rainfall patterns and the relationship between rain and levels .
 
 🔑 Key Performance Indicators (4 KPIs)
@@ -69,7 +69,7 @@ Individual Rainfall Trends (Line Chart): (Implied, or used the scatter plot not 
 🔪 Slicers
 Month, Quarter, Year (Using built-in date hierarchy slicers).
 
-🖥️ Dashboard: Chennai Water Resource Monitoring (Third Screenshot)
+🖥️ Dashboard: Chennai Water Resource Monitoring
 This is the final summary page, combining the most critical metrics and trends from both reports .
 
 Title
