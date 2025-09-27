@@ -17,6 +17,7 @@ Data Model Structure
 The project uses two primary tables, confirming that no Unpivot transformation was used, as the reservoir names remain column headers.
 
 Table Name	Content	Key Columns
+
 chennai_reservoir_levels	Daily water storage (MCft)	Date, Month, Year, 4 Reservoir Columns (POONDI, etc.)
 chennai_reservoir_rainfall	Daily rainfall (mm) for reservoir catchment areas	Date, Month, Year, 4 Reservoir Columns (POONDI, etc.)
 
